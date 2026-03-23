@@ -14,7 +14,7 @@ function Footer() {
 
       {/* LEFT */}
       <p className="text-sm whitespace-nowrap">
-        Designed & Developed by <span className="font-bold">GYAN ARYAN</span>
+        Designed & Developed by <span className="font-semibold">GYAN ARYAN</span>
       </p>
 
       {/* RIGHT */}
