@@ -22,7 +22,6 @@ function Footer() {
         {socials.map(({ icon: Icon, count, href }) => (
           
           <a
-            key={href}
             href={href}
             className="flex flex-col items-center gap-1 text-white transition-colors duration-200 hover:text-blue-200"
           >
